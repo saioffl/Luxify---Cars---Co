@@ -43,7 +43,7 @@ export function AppSidebar() {
             <Zap className="size-4 text-sidebar-primary-foreground" />
           </div>
           <div className="flex flex-col group-data-[collapsible=icon]:hidden">
-            <span className="font-mono text-sm font-bold tracking-tight text-sidebar-foreground">APEX</span>
+            <span className="font-mono text-sm font-bold tracking-tight text-sidebar-foreground">Luxify</span>
             <span className="text-[10px] text-sidebar-foreground/50 uppercase tracking-widest">Motorsports</span>
           </div>
         </div>
